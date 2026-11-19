@@ -17,8 +17,8 @@ export function HomePage() {
                         <hr></hr>
 
                         {/* Intro paragraph*/}
-                        <p>I'm a first-year student studying <b>CS + Stats</b> at the <b>University of Toronto</b>. 
-                            I'm interested in exploring all that the field of tech has to offer, especially software development and data science!
+                        <p>I'm a second-year student studying <b>CS + Stats</b> at the <b>University of Toronto</b>. 
+                            I'm interested in exploring all that tech has to offer, especially software development and data science!
                             Outside of school, I'm a restaurant enthusiast, crochet hobbyist, reader, and proud cat parent ✧/ᐠ-ꞈ-ᐟ\.
                             Feel free to reach out if you have any questions or want to chat!
                         </p>
